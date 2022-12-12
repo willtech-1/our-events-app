@@ -56,8 +56,7 @@ npm start
 ```
 
 ## Where application has been deployed
-I deployed this application both frontend and backend on Heroku because it is easier to deploy mern stack application on the platform
-at it is also easy to deploy an application that has API keys on their cloud platform.
+I deployed this application both frontend and backend on Heroku because it is easier to deploy mern stack application on their platform, also easy to connect MongoDB and environmental variables.
 
 ## Application Security
 Helmet module is utilized for well-known web vulnerabilities to set up various HTTP headers to prevent attacks like Cross-Site-Scripting(XSS)
