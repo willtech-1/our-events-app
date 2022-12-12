@@ -1,0 +1,59 @@
+
+body{
+  font-family: 'Montserrat', sans-serif;
+} 
+
+
+/* .Crow{
+  display: flex;
+  justify-content: space-between;
+}
+
+.image{
+  width: 580px;
+  height: 300px;
+  margin-right: 2rem;
+  border-radius: 4px 4px 4px
+}; */
+
+
+@media only screen and (max-width: 1024px) {
+  .image{
+    display: none
+ }
+}
+
+.text-heading{
+  font-size: 2.25rem;
+  color: #FDFDFD;
+  font-weight: 700;
+}
+
+.text-p{
+  font-size: 1.5rem;
+  color: #FDFDFD;
+  font-weight: 500;
+  margin-top: 1.5rem;
+}
+
+@media only screen and (max-width: 700px) {
+  .text-heading{
+    font-size: 1.85rem
+  }
+}
+
+@media only screen and (max-width: 564px) {
+  .text-heading{
+    font-size: 1.1rem;
+    margin-top: 1rem;
+  }
+  .text-p{
+    font-size: 1rem;
+    margin-top: 2rem;
+  }
+}
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

@@ -1,0 +1,14 @@
+
+.Crow{
+    display: flex;
+    justify-content: space-between;
+}
+
+.image{
+    width: 580px;
+    height: 300px;
+    margin-right: 2rem;
+    border-radius: 4px 4px 4px
+  };
+
+

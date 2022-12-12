@@ -1,0 +1,36 @@
+table{
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+tr > th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    padding-left: 1rem;
+    background-color: #3838fd;
+    color: white;
+}
+
+tr > td {
+    margin-top: 1.5rem;
+    padding-left: 1rem;
+}
+
+.th-cell-left {
+    border-radius: 5px 0px 0px 5px;
+}
+
+.th-cell-right {
+    border-radius: 0px 5px 5px 0px;
+}
+
+td {
+    vertical-align: text-top;
+    padding: 7px;
+    border-bottom: 1px #0000002f solid;
+  }
+
+
+
