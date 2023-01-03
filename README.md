@@ -7,13 +7,16 @@
 
 ## How to use the app?
 **Signup and Signin**
+![signin](https://user-images.githubusercontent.com/70260072/210317549-98449627-793d-498a-a586-d839a3d1c92f.png)
 * In order for user to use the application, user need to signup first and then sign in with the same credentials, 
 and then that user will be registered as a normal user by default not admin
 * In order for user to be admin, user role need to be 1, so when user signup his/her role is 0 by default;
 Registered Admin credentials are Email: jason@gmail.com, Password:j123
 
+
 ## The App
 **Registered User**
+![landing-page](https://user-images.githubusercontent.com/70260072/210317944-362e9fad-6567-4029-9a61-7fecf5c8a7fe.png)
 * Normal registered user will be redirected to the dashboard after signing in and their routes are protected, they can see
 all the upcoming events details, most popular events, they can search for events and all select events they want to see based their choice
 and also buy event
